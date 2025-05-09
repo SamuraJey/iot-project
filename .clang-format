@@ -1,0 +1,16 @@
+BasedOnStyle: Google
+UseTab: Never
+IndentWidth: 4
+TabWidth: 4
+IndentCaseLabels: false
+ColumnLimit: 0
+DerivePointerAlignment: false
+PointerAlignment: Left
+BreakConstructorInitializersStyle: BeforeComma
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+SpaceBeforeCtorInitializerColon: false
+PackConstructorInitializers : Never
+AlignArrayOfStructures: Right
+MaxEmptyLinesToKeep : 2
+TrailingCommentsAlignmentKinds : Always
+AllowShortBlocksOnASingleLine : Always
